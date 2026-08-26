@@ -35,7 +35,7 @@ Multimodal AI for elder-friendly home safety assessment.
 
 ![VLM](https://img.shields.io/badge/VLM-1f2937?style=flat-square) ![FastAPI](https://img.shields.io/badge/FastAPI-1f2937?style=flat-square) ![React](https://img.shields.io/badge/React-1f2937?style=flat-square) ![iOS](https://img.shields.io/badge/iOS-1f2937?style=flat-square)
 
-🏆 National First Prize, Visual Search Track · Douyin AI Innovators Program 
+🏆 National First Prize, Visual Search Track · Douyin AI Innovators Program
 
 ### 🧬 DeepLoc Benchmark
 
