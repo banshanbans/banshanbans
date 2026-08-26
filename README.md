@@ -2,7 +2,7 @@
 
 # Jin Dian
 
-**Computer Science · AI-native Product · Software Engineering**
+**Computer Science Undergraduate · AI Product Builder · Software Engineer**
 
 I build AI-native products and software systems that turn complex decisions into workflows people can inspect, use, and improve.
 
