@@ -46,3 +46,7 @@ Evaluating protein localization models on newer plant proteins.
 ## Also built
 
 UOfferPilot · [SoloShot AI](https://github.com/banshanbans/Hackathon) · [数启研途](https://github.com/banshanbans/CMAU-Demo) · [MicroHabit](https://github.com/banshanbans/MicroHabit)
+
+## Find me
+
+[Portfolio](https://banshanbans.github.io)
